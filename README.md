@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 功能特色 (Features)
+## 功能特色 (Features)
 
 * **自動號誌識別**: 透過 Webcam 捕捉影像，即時判斷紅燈或綠燈。
 * **智慧行駛決策**:
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ 技術棧 (Tech Stack)
+## 技術棧 (Tech Stack)
 
 * **Language**: Python 3
 * **Hardware**: Raspberry Pi 3/4, L298N Motor Driver, DC Motors.
